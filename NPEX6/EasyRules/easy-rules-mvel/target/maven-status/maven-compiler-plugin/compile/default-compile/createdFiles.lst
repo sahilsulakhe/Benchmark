@@ -1,0 +1,6 @@
+org/jeasy/rules/mvel/MVELAction.class
+org/jeasy/rules/mvel/MVELRuleDefinition.class
+org/jeasy/rules/mvel/MVELCondition.class
+org/jeasy/rules/mvel/MVELRuleDefinitionReader.class
+org/jeasy/rules/mvel/MVELRule.class
+org/jeasy/rules/mvel/MVELRuleFactory.class
